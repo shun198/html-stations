@@ -1,6 +1,6 @@
 .card {
   background-color: #fff;
-  padding: 0%;
+  padding:20px 20px 20px 20px;
 }
 
 .card__title {
@@ -16,5 +16,5 @@
 .card__img-top {
   width:288px;
   height:182px;
-  margin-bottom: auto;
+  margin-bottom: 20px;
 }
