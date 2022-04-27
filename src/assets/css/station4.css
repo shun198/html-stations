@@ -1,3 +1,11 @@
+.header {
+  background-color: #fff;
+}
+
+.body {
+  background-color: #c4c4c4;
+}
+
 .card {
   background-color: #fff;
   padding: 20px 20px 20px 20px;
@@ -17,14 +25,6 @@
   width: 288px;
   height: 182px;
   margin-bottom: 20px;
-}
-
-.header {
-  background-color: #fff;
-}
-
-.body {
-  background-color: #c4c4c4;
 }
 
 .footer {
