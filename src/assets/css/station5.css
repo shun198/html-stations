@@ -1,0 +1,37 @@
+.card {
+  background-color: #fff;
+  padding: 0%;
+  /*TODO:コントラスト値を高める  */
+  filter: contrast(200%)
+}
+
+.card__title {
+  color: #282828;
+  font-size: 14px;
+  /*TODO:コントラスト値を高める  */
+  filter: contrast(200%)
+}
+
+.card__description {
+  color: #282828;
+  font-size: 12px;
+}
+
+.card__img-top {
+  width: 288px;
+  height: 182px;
+  margin-bottom: auto;
+}
+
+header {
+  background-color: #fff;
+}
+
+footer {
+  background-color: #fff;
+}
+
+body {
+  background-color: #c4c4c4
+}
+
