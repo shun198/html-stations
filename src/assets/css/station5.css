@@ -1,14 +1,12 @@
 .card {
   background-color: #fff;
   padding: 0%;
-  /*TODO:コントラスト値を高める  */
   filter: contrast(200%)
 }
 
 .card__title {
   color: #282828;
   font-size: 14px;
-  /*TODO:コントラスト値を高める  */
   filter: contrast(200%)
 }
 
