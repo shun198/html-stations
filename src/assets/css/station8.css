@@ -1,18 +1,23 @@
 .card {
   background-color: #fff;
   padding: 0%;
-  filter: contrast(200%)
+  filter: contrast(200%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card__title {
   color: #282828;
   font-size: 14px;
-  filter: contrast(200%)
+  filter: contrast(200%);
+  text-align: center;
 }
 
 .card__description {
   color: #282828;
   font-size: 12px;
+  text-align: center;
 }
 
 .card__img-top {
@@ -31,7 +36,5 @@ footer {
 
 body {
   background-color: #c4c4c4;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
+
